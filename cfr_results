@@ -1,0 +1,1157 @@
+PreFlop,40 and lower,Check,Check,0
+PreFlop,40 and lower,Check,Bet 1/3,0
+PreFlop,40 and lower,Check,Bet 2/3,0
+PreFlop,40 and lower,Check,Bet Pot,0
+PreFlop,40 and lower,Check,All In,100
+PreFlop,40 and lower,Bet 1/3,Call,0
+PreFlop,40 and lower,Bet 1/3,Fold,100
+PreFlop,40 and lower,Bet 2/3,Call,0
+PreFlop,40 and lower,Bet 2/3,Fold,100
+PreFlop,40 and lower,Bet Pot,Call,0
+PreFlop,40 and lower,Bet Pot,Fold,100
+PreFlop,40 and lower,All In,Call,0
+PreFlop,40 and lower,All In,Fold,100
+PreFlop,40-45,Check,Check,100
+PreFlop,40-45,Check,Bet 1/3,0
+PreFlop,40-45,Check,Bet 2/3,0
+PreFlop,40-45,Check,Bet Pot,0
+PreFlop,40-45,Check,All In,0
+PreFlop,40-45,Bet 1/3,Call,100
+PreFlop,40-45,Bet 1/3,Fold,0
+PreFlop,40-45,Bet 2/3,Call,100
+PreFlop,40-45,Bet 2/3,Fold,0
+PreFlop,40-45,Bet Pot,Call,100
+PreFlop,40-45,Bet Pot,Fold,0
+PreFlop,40-45,All In,Call,100
+PreFlop,40-45,All In,Fold,0
+PreFlop,45-50,Check,Check,100
+PreFlop,45-50,Check,Bet 1/3,0
+PreFlop,45-50,Check,Bet 2/3,0
+PreFlop,45-50,Check,Bet Pot,0
+PreFlop,45-50,Check,All In,0
+PreFlop,45-50,Bet 1/3,Call,100
+PreFlop,45-50,Bet 1/3,Fold,0
+PreFlop,45-50,Bet 2/3,Call,100
+PreFlop,45-50,Bet 2/3,Fold,0
+PreFlop,45-50,Bet Pot,Call,100
+PreFlop,45-50,Bet Pot,Fold,0
+PreFlop,45-50,All In,Call,100
+PreFlop,45-50,All In,Fold,0
+PreFlop,50-60,Check,Check,100
+PreFlop,50-60,Check,Bet 1/3,0
+PreFlop,50-60,Check,Bet 2/3,0
+PreFlop,50-60,Check,Bet Pot,0
+PreFlop,50-60,Check,All In,0
+PreFlop,50-60,Bet 1/3,Call,100
+PreFlop,50-60,Bet 1/3,Fold,0
+PreFlop,50-60,Bet 2/3,Call,100
+PreFlop,50-60,Bet 2/3,Fold,0
+PreFlop,50-60,Bet Pot,Call,100
+PreFlop,50-60,Bet Pot,Fold,0
+PreFlop,50-60,All In,Call,100
+PreFlop,50-60,All In,Fold,0
+PreFlop,60+,Check,Check,100
+PreFlop,60+,Check,Bet 1/3,0
+PreFlop,60+,Check,Bet 2/3,0
+PreFlop,60+,Check,Bet Pot,0
+PreFlop,60+,Check,All In,0
+PreFlop,60+,Bet 1/3,Call,100
+PreFlop,60+,Bet 1/3,Fold,0
+PreFlop,60+,Bet 2/3,Call,100
+PreFlop,60+,Bet 2/3,Fold,0
+PreFlop,60+,Bet Pot,Call,100
+PreFlop,60+,Bet Pot,Fold,0
+PreFlop,60+,All In,Call,100
+PreFlop,60+,All In,Fold,0
+Flop,High Card,Check,Check,0
+Flop,High Card,Check,Bet 1/3,0
+Flop,High Card,Check,Bet 2/3,0
+Flop,High Card,Check,Bet Pot,100
+Flop,High Card,Check,All In,0
+Flop,High Card,Bet 1/3,Call,100
+Flop,High Card,Bet 1/3,Fold,0
+Flop,High Card,Bet 2/3,Call,100
+Flop,High Card,Bet 2/3,Fold,0
+Flop,High Card,Bet Pot,Call,100
+Flop,High Card,Bet Pot,Fold,0
+Flop,High Card,All In,Call,100
+Flop,High Card,All In,Fold,0
+Flop,OverPair,Check,Check,0
+Flop,OverPair,Check,Bet 1/3,0
+Flop,OverPair,Check,Bet 2/3,0
+Flop,OverPair,Check,Bet Pot,0
+Flop,OverPair,Check,All In,100
+Flop,OverPair,Bet 1/3,Call,100
+Flop,OverPair,Bet 1/3,Fold,0
+Flop,OverPair,Bet 2/3,Call,100
+Flop,OverPair,Bet 2/3,Fold,0
+Flop,OverPair,Bet Pot,Call,100
+Flop,OverPair,Bet Pot,Fold,0
+Flop,OverPair,All In,Call,100
+Flop,OverPair,All In,Fold,0
+Flop,Pocket Pair,Check,Check,45.8737
+Flop,Pocket Pair,Check,Bet 1/3,0
+Flop,Pocket Pair,Check,Bet 2/3,0
+Flop,Pocket Pair,Check,Bet Pot,54.1263
+Flop,Pocket Pair,Check,All In,0
+Flop,Pocket Pair,Bet 1/3,Call,100
+Flop,Pocket Pair,Bet 1/3,Fold,0
+Flop,Pocket Pair,Bet 2/3,Call,100
+Flop,Pocket Pair,Bet 2/3,Fold,0
+Flop,Pocket Pair,Bet Pot,Call,100
+Flop,Pocket Pair,Bet Pot,Fold,0
+Flop,Pocket Pair,All In,Call,100
+Flop,Pocket Pair,All In,Fold,0
+Flop,Top Pair Top Kicker,Check,Check,0
+Flop,Top Pair Top Kicker,Check,Bet 1/3,0
+Flop,Top Pair Top Kicker,Check,Bet 2/3,0
+Flop,Top Pair Top Kicker,Check,Bet Pot,100
+Flop,Top Pair Top Kicker,Check,All In,0
+Flop,Top Pair Top Kicker,Bet 1/3,Call,100
+Flop,Top Pair Top Kicker,Bet 1/3,Fold,0
+Flop,Top Pair Top Kicker,Bet 2/3,Call,100
+Flop,Top Pair Top Kicker,Bet 2/3,Fold,0
+Flop,Top Pair Top Kicker,Bet Pot,Call,100
+Flop,Top Pair Top Kicker,Bet Pot,Fold,0
+Flop,Top Pair Top Kicker,All In,Call,100
+Flop,Top Pair Top Kicker,All In,Fold,0
+Flop,Top Pair Low Kicker,Check,Check,22.5696
+Flop,Top Pair Low Kicker,Check,Bet 1/3,0
+Flop,Top Pair Low Kicker,Check,Bet 2/3,0
+Flop,Top Pair Low Kicker,Check,Bet Pot,77.4304
+Flop,Top Pair Low Kicker,Check,All In,0
+Flop,Top Pair Low Kicker,Bet 1/3,Call,100
+Flop,Top Pair Low Kicker,Bet 1/3,Fold,0
+Flop,Top Pair Low Kicker,Bet 2/3,Call,100
+Flop,Top Pair Low Kicker,Bet 2/3,Fold,0
+Flop,Top Pair Low Kicker,Bet Pot,Call,100
+Flop,Top Pair Low Kicker,Bet Pot,Fold,0
+Flop,Top Pair Low Kicker,All In,Call,100
+Flop,Top Pair Low Kicker,All In,Fold,0
+Flop,Middle Pair Top Kicker,Check,Check,0
+Flop,Middle Pair Top Kicker,Check,Bet 1/3,0
+Flop,Middle Pair Top Kicker,Check,Bet 2/3,0
+Flop,Middle Pair Top Kicker,Check,Bet Pot,100
+Flop,Middle Pair Top Kicker,Check,All In,0
+Flop,Middle Pair Top Kicker,Bet 1/3,Call,100
+Flop,Middle Pair Top Kicker,Bet 1/3,Fold,0
+Flop,Middle Pair Top Kicker,Bet 2/3,Call,100
+Flop,Middle Pair Top Kicker,Bet 2/3,Fold,0
+Flop,Middle Pair Top Kicker,Bet Pot,Call,100
+Flop,Middle Pair Top Kicker,Bet Pot,Fold,0
+Flop,Middle Pair Top Kicker,All In,Call,100
+Flop,Middle Pair Top Kicker,All In,Fold,0
+Flop,Middle Pair Low Kicker,Check,Check,0
+Flop,Middle Pair Low Kicker,Check,Bet 1/3,0
+Flop,Middle Pair Low Kicker,Check,Bet 2/3,0
+Flop,Middle Pair Low Kicker,Check,Bet Pot,100
+Flop,Middle Pair Low Kicker,Check,All In,0
+Flop,Middle Pair Low Kicker,Bet 1/3,Call,100
+Flop,Middle Pair Low Kicker,Bet 1/3,Fold,0
+Flop,Middle Pair Low Kicker,Bet 2/3,Call,100
+Flop,Middle Pair Low Kicker,Bet 2/3,Fold,0
+Flop,Middle Pair Low Kicker,Bet Pot,Call,100
+Flop,Middle Pair Low Kicker,Bet Pot,Fold,0
+Flop,Middle Pair Low Kicker,All In,Call,100
+Flop,Middle Pair Low Kicker,All In,Fold,0
+Flop,Low Pair Top Kicker,Check,Check,19.9753
+Flop,Low Pair Top Kicker,Check,Bet 1/3,0
+Flop,Low Pair Top Kicker,Check,Bet 2/3,0
+Flop,Low Pair Top Kicker,Check,Bet Pot,80.0247
+Flop,Low Pair Top Kicker,Check,All In,0
+Flop,Low Pair Top Kicker,Bet 1/3,Call,100
+Flop,Low Pair Top Kicker,Bet 1/3,Fold,0
+Flop,Low Pair Top Kicker,Bet 2/3,Call,100
+Flop,Low Pair Top Kicker,Bet 2/3,Fold,0
+Flop,Low Pair Top Kicker,Bet Pot,Call,100
+Flop,Low Pair Top Kicker,Bet Pot,Fold,0
+Flop,Low Pair Top Kicker,All In,Call,100
+Flop,Low Pair Top Kicker,All In,Fold,0
+Flop,Low Pair Low Kicker,Check,Check,26.6276
+Flop,Low Pair Low Kicker,Check,Bet 1/3,0
+Flop,Low Pair Low Kicker,Check,Bet 2/3,0
+Flop,Low Pair Low Kicker,Check,Bet Pot,73.3724
+Flop,Low Pair Low Kicker,Check,All In,0
+Flop,Low Pair Low Kicker,Bet 1/3,Call,100
+Flop,Low Pair Low Kicker,Bet 1/3,Fold,0
+Flop,Low Pair Low Kicker,Bet 2/3,Call,100
+Flop,Low Pair Low Kicker,Bet 2/3,Fold,0
+Flop,Low Pair Low Kicker,Bet Pot,Call,100
+Flop,Low Pair Low Kicker,Bet Pot,Fold,0
+Flop,Low Pair Low Kicker,All In,Call,100
+Flop,Low Pair Low Kicker,All In,Fold,0
+Flop,Two Pair Top Two,Check,Check,24.6112
+Flop,Two Pair Top Two,Check,Bet 1/3,0
+Flop,Two Pair Top Two,Check,Bet 2/3,0
+Flop,Two Pair Top Two,Check,Bet Pot,75.3888
+Flop,Two Pair Top Two,Check,All In,0
+Flop,Two Pair Top Two,Bet 1/3,Call,100
+Flop,Two Pair Top Two,Bet 1/3,Fold,0
+Flop,Two Pair Top Two,Bet 2/3,Call,100
+Flop,Two Pair Top Two,Bet 2/3,Fold,0
+Flop,Two Pair Top Two,Bet Pot,Call,100
+Flop,Two Pair Top Two,Bet Pot,Fold,0
+Flop,Two Pair Top Two,All In,Call,100
+Flop,Two Pair Top Two,All In,Fold,0
+Flop,Two Pair Top One,Check,Check,55.0415
+Flop,Two Pair Top One,Check,Bet 1/3,0
+Flop,Two Pair Top One,Check,Bet 2/3,2.2198
+Flop,Two Pair Top One,Check,Bet Pot,42.7387
+Flop,Two Pair Top One,Check,All In,0
+Flop,Two Pair Top One,Bet 1/3,Call,100
+Flop,Two Pair Top One,Bet 1/3,Fold,0
+Flop,Two Pair Top One,Bet 2/3,Call,100
+Flop,Two Pair Top One,Bet 2/3,Fold,0
+Flop,Two Pair Top One,Bet Pot,Call,100
+Flop,Two Pair Top One,Bet Pot,Fold,0
+Flop,Two Pair Top One,All In,Call,100
+Flop,Two Pair Top One,All In,Fold,0
+Flop,Two Pair Two Low,Check,Check,44.4585
+Flop,Two Pair Two Low,Check,Bet 1/3,0
+Flop,Two Pair Two Low,Check,Bet 2/3,0
+Flop,Two Pair Two Low,Check,Bet Pot,55.5415
+Flop,Two Pair Two Low,Check,All In,0
+Flop,Two Pair Two Low,Bet 1/3,Call,100
+Flop,Two Pair Two Low,Bet 1/3,Fold,0
+Flop,Two Pair Two Low,Bet 2/3,Call,100
+Flop,Two Pair Two Low,Bet 2/3,Fold,0
+Flop,Two Pair Two Low,Bet Pot,Call,100
+Flop,Two Pair Two Low,Bet Pot,Fold,0
+Flop,Two Pair Two Low,All In,Call,100
+Flop,Two Pair Two Low,All In,Fold,0
+Flop,Top Set,Check,Check,42.4185
+Flop,Top Set,Check,Bet 1/3,0
+Flop,Top Set,Check,Bet 2/3,0
+Flop,Top Set,Check,Bet Pot,57.5815
+Flop,Top Set,Check,All In,0
+Flop,Top Set,Bet 1/3,Call,100
+Flop,Top Set,Bet 1/3,Fold,0
+Flop,Top Set,Bet 2/3,Call,100
+Flop,Top Set,Bet 2/3,Fold,0
+Flop,Top Set,Bet Pot,Call,100
+Flop,Top Set,Bet Pot,Fold,0
+Flop,Top Set,All In,Call,100
+Flop,Top Set,All In,Fold,0
+Flop,Middle Set,Check,Check,29.9641
+Flop,Middle Set,Check,Bet 1/3,0
+Flop,Middle Set,Check,Bet 2/3,0
+Flop,Middle Set,Check,Bet Pot,70.0359
+Flop,Middle Set,Check,All In,0
+Flop,Middle Set,Bet 1/3,Call,100
+Flop,Middle Set,Bet 1/3,Fold,0
+Flop,Middle Set,Bet 2/3,Call,100
+Flop,Middle Set,Bet 2/3,Fold,0
+Flop,Middle Set,Bet Pot,Call,100
+Flop,Middle Set,Bet Pot,Fold,0
+Flop,Middle Set,All In,Call,100
+Flop,Middle Set,All In,Fold,0
+Flop,Low Set,Check,Check,45.85
+Flop,Low Set,Check,Bet 1/3,0
+Flop,Low Set,Check,Bet 2/3,0
+Flop,Low Set,Check,Bet Pot,54.15
+Flop,Low Set,Check,All In,0
+Flop,Low Set,Bet 1/3,Call,100
+Flop,Low Set,Bet 1/3,Fold,0
+Flop,Low Set,Bet 2/3,Call,100
+Flop,Low Set,Bet 2/3,Fold,0
+Flop,Low Set,Bet Pot,Call,100
+Flop,Low Set,Bet Pot,Fold,0
+Flop,Low Set,All In,Call,100
+Flop,Low Set,All In,Fold,0
+Flop,Straight OverCard,Check,Check,41.6769
+Flop,Straight OverCard,Check,Bet 1/3,0
+Flop,Straight OverCard,Check,Bet 2/3,0
+Flop,Straight OverCard,Check,Bet Pot,58.3231
+Flop,Straight OverCard,Check,All In,0
+Flop,Straight OverCard,Bet 1/3,Call,100
+Flop,Straight OverCard,Bet 1/3,Fold,0
+Flop,Straight OverCard,Bet 2/3,Call,100
+Flop,Straight OverCard,Bet 2/3,Fold,0
+Flop,Straight OverCard,Bet Pot,Call,100
+Flop,Straight OverCard,Bet Pot,Fold,0
+Flop,Straight OverCard,All In,Call,100
+Flop,Straight OverCard,All In,Fold,0
+Flop,Straight Middle Card,Check,Check,39.8167
+Flop,Straight Middle Card,Check,Bet 1/3,0
+Flop,Straight Middle Card,Check,Bet 2/3,3.2782
+Flop,Straight Middle Card,Check,Bet Pot,56.9051
+Flop,Straight Middle Card,Check,All In,0
+Flop,Straight Middle Card,Bet 1/3,Call,100
+Flop,Straight Middle Card,Bet 1/3,Fold,0
+Flop,Straight Middle Card,Bet 2/3,Call,100
+Flop,Straight Middle Card,Bet 2/3,Fold,0
+Flop,Straight Middle Card,Bet Pot,Call,100
+Flop,Straight Middle Card,Bet Pot,Fold,0
+Flop,Straight Middle Card,All In,Call,100
+Flop,Straight Middle Card,All In,Fold,0
+Flop,Straight Lower Card,Check,Check,14.8229
+Flop,Straight Lower Card,Check,Bet 1/3,23.1691
+Flop,Straight Lower Card,Check,Bet 2/3,28.2686
+Flop,Straight Lower Card,Check,Bet Pot,33.7394
+Flop,Straight Lower Card,Check,All In,0
+Flop,Straight Lower Card,Bet 1/3,Call,100
+Flop,Straight Lower Card,Bet 1/3,Fold,0
+Flop,Straight Lower Card,Bet 2/3,Call,100
+Flop,Straight Lower Card,Bet 2/3,Fold,0
+Flop,Straight Lower Card,Bet Pot,Call,100
+Flop,Straight Lower Card,Bet Pot,Fold,0
+Flop,Straight Lower Card,All In,Call,100
+Flop,Straight Lower Card,All In,Fold,0
+Flop,Flush With 2 Overs,Check,Check,19.9375
+Flop,Flush With 2 Overs,Check,Bet 1/3,20.0527
+Flop,Flush With 2 Overs,Check,Bet 2/3,20.2635
+Flop,Flush With 2 Overs,Check,Bet Pot,20.5879
+Flop,Flush With 2 Overs,Check,All In,19.1584
+Flop,Flush With 2 Overs,Bet 1/3,Call,50.0
+Flop,Flush With 2 Overs,Bet 1/3,Fold,50.0
+Flop,Flush With 2 Overs,Bet 2/3,Call,50.0
+Flop,Flush With 2 Overs,Bet 2/3,Fold,50.0
+Flop,Flush With 2 Overs,Bet Pot,Call,50.0
+Flop,Flush With 2 Overs,Bet Pot,Fold,50.0
+Flop,Flush With 2 Overs,All In,Call,50.0
+Flop,Flush With 2 Overs,All In,Fold,50.0
+Flop,Flush With 1 Over,Check,Check,38.8725
+Flop,Flush With 1 Over,Check,Bet 1/3,0
+Flop,Flush With 1 Over,Check,Bet 2/3,19.4147
+Flop,Flush With 1 Over,Check,Bet Pot,41.7128
+Flop,Flush With 1 Over,Check,All In,0
+Flop,Flush With 1 Over,Bet 1/3,Call,100
+Flop,Flush With 1 Over,Bet 1/3,Fold,0
+Flop,Flush With 1 Over,Bet 2/3,Call,100
+Flop,Flush With 1 Over,Bet 2/3,Fold,0
+Flop,Flush With 1 Over,Bet Pot,Call,100
+Flop,Flush With 1 Over,Bet Pot,Fold,0
+Flop,Flush With 1 Over,All In,Call,100
+Flop,Flush With 1 Over,All In,Fold,0
+Flop,Flush,Check,Check,42.0007
+Flop,Flush,Check,Bet 1/3,0
+Flop,Flush,Check,Bet 2/3,11.0713
+Flop,Flush,Check,Bet Pot,46.928
+Flop,Flush,Check,All In,0
+Flop,Flush,Bet 1/3,Call,100
+Flop,Flush,Bet 1/3,Fold,0
+Flop,Flush,Bet 2/3,Call,100
+Flop,Flush,Bet 2/3,Fold,0
+Flop,Flush,Bet Pot,Call,100
+Flop,Flush,Bet Pot,Fold,0
+Flop,Flush,All In,Call,100
+Flop,Flush,All In,Fold,0
+Flop,High Full House High Pair,Check,Check,39.9029
+Flop,High Full House High Pair,Check,Bet 1/3,0
+Flop,High Full House High Pair,Check,Bet 2/3,3.2965
+Flop,High Full House High Pair,Check,Bet Pot,56.8006
+Flop,High Full House High Pair,Check,All In,0
+Flop,High Full House High Pair,Bet 1/3,Call,100
+Flop,High Full House High Pair,Bet 1/3,Fold,0
+Flop,High Full House High Pair,Bet 2/3,Call,100
+Flop,High Full House High Pair,Bet 2/3,Fold,0
+Flop,High Full House High Pair,Bet Pot,Call,100
+Flop,High Full House High Pair,Bet Pot,Fold,0
+Flop,High Full House High Pair,All In,Call,100
+Flop,High Full House High Pair,All In,Fold,0
+Flop,High Full House Low Pair,Check,Check,20
+Flop,High Full House Low Pair,Check,Bet 1/3,20
+Flop,High Full House Low Pair,Check,Bet 2/3,20
+Flop,High Full House Low Pair,Check,Bet Pot,20
+Flop,High Full House Low Pair,Check,All In,20
+Flop,High Full House Low Pair,Bet 1/3,Call,50
+Flop,High Full House Low Pair,Bet 1/3,Fold,50
+Flop,High Full House Low Pair,Bet 2/3,Call,50
+Flop,High Full House Low Pair,Bet 2/3,Fold,50
+Flop,High Full House Low Pair,Bet Pot,Call,50
+Flop,High Full House Low Pair,Bet Pot,Fold,50
+Flop,High Full House Low Pair,All In,Call,50
+Flop,High Full House Low Pair,All In,Fold,50
+Flop,Low Full House High Pair,Check,Check,30.4311
+Flop,Low Full House High Pair,Check,Bet 1/3,13.4669
+Flop,Low Full House High Pair,Check,Bet 2/3,22.8812
+Flop,Low Full House High Pair,Check,Bet Pot,33.2208
+Flop,Low Full House High Pair,Check,All In,0
+Flop,Low Full House High Pair,Bet 1/3,Call,100
+Flop,Low Full House High Pair,Bet 1/3,Fold,0
+Flop,Low Full House High Pair,Bet 2/3,Call,100
+Flop,Low Full House High Pair,Bet 2/3,Fold,0
+Flop,Low Full House High Pair,Bet Pot,Call,100
+Flop,Low Full House High Pair,Bet Pot,Fold,0
+Flop,Low Full House High Pair,All In,Call,100
+Flop,Low Full House High Pair,All In,Fold,0
+Flop,Low Full House Low Pair,Check,Check,20
+Flop,Low Full House Low Pair,Check,Bet 1/3,20
+Flop,Low Full House Low Pair,Check,Bet 2/3,20
+Flop,Low Full House Low Pair,Check,Bet Pot,20
+Flop,Low Full House Low Pair,Check,All In,20
+Flop,Low Full House Low Pair,Bet 1/3,Call,50
+Flop,Low Full House Low Pair,Bet 1/3,Fold,50
+Flop,Low Full House Low Pair,Bet 2/3,Call,50
+Flop,Low Full House Low Pair,Bet 2/3,Fold,50
+Flop,Low Full House Low Pair,Bet Pot,Call,50
+Flop,Low Full House Low Pair,Bet Pot,Fold,50
+Flop,Low Full House Low Pair,All In,Call,50
+Flop,Low Full House Low Pair,All In,Fold,50
+Flop,Four Of A Kind,Check,Check,39.181
+Flop,Four Of A Kind,Check,Bet 1/3,5.5374
+Flop,Four Of A Kind,Check,Bet 2/3,19.9429
+Flop,Four Of A Kind,Check,Bet Pot,35.3387
+Flop,Four Of A Kind,Check,All In,0
+Flop,Four Of A Kind,Bet 1/3,Call,100
+Flop,Four Of A Kind,Bet 1/3,Fold,0
+Flop,Four Of A Kind,Bet 2/3,Call,100
+Flop,Four Of A Kind,Bet 2/3,Fold,0
+Flop,Four Of A Kind,Bet Pot,Call,100
+Flop,Four Of A Kind,Bet Pot,Fold,0
+Flop,Four Of A Kind,All In,Call,100
+Flop,Four Of A Kind,All In,Fold,0
+Flop,Straight Flush,Check,Check,20
+Flop,Straight Flush,Check,Bet 1/3,20
+Flop,Straight Flush,Check,Bet 2/3,20
+Flop,Straight Flush,Check,Bet Pot,20
+Flop,Straight Flush,Check,All In,20
+Flop,Straight Flush,Bet 1/3,Call,50
+Flop,Straight Flush,Bet 1/3,Fold,50
+Flop,Straight Flush,Bet 2/3,Call,50
+Flop,Straight Flush,Bet 2/3,Fold,50
+Flop,Straight Flush,Bet Pot,Call,50
+Flop,Straight Flush,Bet Pot,Fold,50
+Flop,Straight Flush,All In,Call,50
+Flop,Straight Flush,All In,Fold,50
+Flop,Royal Flush,Check,Check,20
+Flop,Royal Flush,Check,Bet 1/3,20
+Flop,Royal Flush,Check,Bet 2/3,20
+Flop,Royal Flush,Check,Bet Pot,20
+Flop,Royal Flush,Check,All In,20
+Flop,Royal Flush,Bet 1/3,Call,50
+Flop,Royal Flush,Bet 1/3,Fold,50
+Flop,Royal Flush,Bet 2/3,Call,50
+Flop,Royal Flush,Bet 2/3,Fold,50
+Flop,Royal Flush,Bet Pot,Call,50
+Flop,Royal Flush,Bet Pot,Fold,50
+Flop,Royal Flush,All In,Call,50
+Flop,Royal Flush,All In,Fold,50
+Turn,High Card,Check,Check,0
+Turn,High Card,Check,Bet 1/3,0
+Turn,High Card,Check,Bet 2/3,0
+Turn,High Card,Check,Bet Pot,100
+Turn,High Card,Check,All In,0
+Turn,High Card,Bet 1/3,Call,100
+Turn,High Card,Bet 1/3,Fold,0
+Turn,High Card,Bet 2/3,Call,100
+Turn,High Card,Bet 2/3,Fold,0
+Turn,High Card,Bet Pot,Call,100
+Turn,High Card,Bet Pot,Fold,0
+Turn,High Card,All In,Call,100
+Turn,High Card,All In,Fold,0
+Turn,OverPair,Check,Check,0
+Turn,OverPair,Check,Bet 1/3,100
+Turn,OverPair,Check,Bet 2/3,0
+Turn,OverPair,Check,Bet Pot,0
+Turn,OverPair,Check,All In,0
+Turn,OverPair,Bet 1/3,Call,100
+Turn,OverPair,Bet 1/3,Fold,0
+Turn,OverPair,Bet 2/3,Call,100
+Turn,OverPair,Bet 2/3,Fold,0
+Turn,OverPair,Bet Pot,Call,100
+Turn,OverPair,Bet Pot,Fold,0
+Turn,OverPair,All In,Call,100
+Turn,OverPair,All In,Fold,0
+Turn,Pocket Pair,Check,Check,0
+Turn,Pocket Pair,Check,Bet 1/3,0
+Turn,Pocket Pair,Check,Bet 2/3,0
+Turn,Pocket Pair,Check,Bet Pot,100
+Turn,Pocket Pair,Check,All In,0
+Turn,Pocket Pair,Bet 1/3,Call,100
+Turn,Pocket Pair,Bet 1/3,Fold,0
+Turn,Pocket Pair,Bet 2/3,Call,100
+Turn,Pocket Pair,Bet 2/3,Fold,0
+Turn,Pocket Pair,Bet Pot,Call,100
+Turn,Pocket Pair,Bet Pot,Fold,0
+Turn,Pocket Pair,All In,Call,100
+Turn,Pocket Pair,All In,Fold,0
+Turn,Top Pair Top Kicker,Check,Check,0
+Turn,Top Pair Top Kicker,Check,Bet 1/3,0
+Turn,Top Pair Top Kicker,Check,Bet 2/3,0
+Turn,Top Pair Top Kicker,Check,Bet Pot,100
+Turn,Top Pair Top Kicker,Check,All In,0
+Turn,Top Pair Top Kicker,Bet 1/3,Call,100
+Turn,Top Pair Top Kicker,Bet 1/3,Fold,0
+Turn,Top Pair Top Kicker,Bet 2/3,Call,100
+Turn,Top Pair Top Kicker,Bet 2/3,Fold,0
+Turn,Top Pair Top Kicker,Bet Pot,Call,100
+Turn,Top Pair Top Kicker,Bet Pot,Fold,0
+Turn,Top Pair Top Kicker,All In,Call,100
+Turn,Top Pair Top Kicker,All In,Fold,0
+Turn,Top Pair Low Kicker,Check,Check,0
+Turn,Top Pair Low Kicker,Check,Bet 1/3,0
+Turn,Top Pair Low Kicker,Check,Bet 2/3,0
+Turn,Top Pair Low Kicker,Check,Bet Pot,100
+Turn,Top Pair Low Kicker,Check,All In,0
+Turn,Top Pair Low Kicker,Bet 1/3,Call,100
+Turn,Top Pair Low Kicker,Bet 1/3,Fold,0
+Turn,Top Pair Low Kicker,Bet 2/3,Call,100
+Turn,Top Pair Low Kicker,Bet 2/3,Fold,0
+Turn,Top Pair Low Kicker,Bet Pot,Call,100
+Turn,Top Pair Low Kicker,Bet Pot,Fold,0
+Turn,Top Pair Low Kicker,All In,Call,100
+Turn,Top Pair Low Kicker,All In,Fold,0
+Turn,Middle Pair Top Kicker,Check,Check,0
+Turn,Middle Pair Top Kicker,Check,Bet 1/3,0
+Turn,Middle Pair Top Kicker,Check,Bet 2/3,0
+Turn,Middle Pair Top Kicker,Check,Bet Pot,100
+Turn,Middle Pair Top Kicker,Check,All In,0
+Turn,Middle Pair Top Kicker,Bet 1/3,Call,100
+Turn,Middle Pair Top Kicker,Bet 1/3,Fold,0
+Turn,Middle Pair Top Kicker,Bet 2/3,Call,100
+Turn,Middle Pair Top Kicker,Bet 2/3,Fold,0
+Turn,Middle Pair Top Kicker,Bet Pot,Call,100
+Turn,Middle Pair Top Kicker,Bet Pot,Fold,0
+Turn,Middle Pair Top Kicker,All In,Call,100
+Turn,Middle Pair Top Kicker,All In,Fold,0
+Turn,Middle Pair Low Kicker,Check,Check,0
+Turn,Middle Pair Low Kicker,Check,Bet 1/3,0
+Turn,Middle Pair Low Kicker,Check,Bet 2/3,0
+Turn,Middle Pair Low Kicker,Check,Bet Pot,100
+Turn,Middle Pair Low Kicker,Check,All In,0
+Turn,Middle Pair Low Kicker,Bet 1/3,Call,100
+Turn,Middle Pair Low Kicker,Bet 1/3,Fold,0
+Turn,Middle Pair Low Kicker,Bet 2/3,Call,100
+Turn,Middle Pair Low Kicker,Bet 2/3,Fold,0
+Turn,Middle Pair Low Kicker,Bet Pot,Call,100
+Turn,Middle Pair Low Kicker,Bet Pot,Fold,0
+Turn,Middle Pair Low Kicker,All In,Call,100
+Turn,Middle Pair Low Kicker,All In,Fold,0
+Turn,Low Pair Top Kicker,Check,Check,0
+Turn,Low Pair Top Kicker,Check,Bet 1/3,0
+Turn,Low Pair Top Kicker,Check,Bet 2/3,0
+Turn,Low Pair Top Kicker,Check,Bet Pot,100
+Turn,Low Pair Top Kicker,Check,All In,0
+Turn,Low Pair Top Kicker,Bet 1/3,Call,100
+Turn,Low Pair Top Kicker,Bet 1/3,Fold,0
+Turn,Low Pair Top Kicker,Bet 2/3,Call,100
+Turn,Low Pair Top Kicker,Bet 2/3,Fold,0
+Turn,Low Pair Top Kicker,Bet Pot,Call,100
+Turn,Low Pair Top Kicker,Bet Pot,Fold,0
+Turn,Low Pair Top Kicker,All In,Call,100
+Turn,Low Pair Top Kicker,All In,Fold,0
+Turn,Low Pair Low Kicker,Check,Check,0
+Turn,Low Pair Low Kicker,Check,Bet 1/3,0
+Turn,Low Pair Low Kicker,Check,Bet 2/3,0
+Turn,Low Pair Low Kicker,Check,Bet Pot,100
+Turn,Low Pair Low Kicker,Check,All In,0
+Turn,Low Pair Low Kicker,Bet 1/3,Call,100
+Turn,Low Pair Low Kicker,Bet 1/3,Fold,0
+Turn,Low Pair Low Kicker,Bet 2/3,Call,100
+Turn,Low Pair Low Kicker,Bet 2/3,Fold,0
+Turn,Low Pair Low Kicker,Bet Pot,Call,100
+Turn,Low Pair Low Kicker,Bet Pot,Fold,0
+Turn,Low Pair Low Kicker,All In,Call,100
+Turn,Low Pair Low Kicker,All In,Fold,0
+Turn,Two Pair Top Two,Check,Check,0
+Turn,Two Pair Top Two,Check,Bet 1/3,0
+Turn,Two Pair Top Two,Check,Bet 2/3,0
+Turn,Two Pair Top Two,Check,Bet Pot,100
+Turn,Two Pair Top Two,Check,All In,0
+Turn,Two Pair Top Two,Bet 1/3,Call,100
+Turn,Two Pair Top Two,Bet 1/3,Fold,0
+Turn,Two Pair Top Two,Bet 2/3,Call,100
+Turn,Two Pair Top Two,Bet 2/3,Fold,0
+Turn,Two Pair Top Two,Bet Pot,Call,100
+Turn,Two Pair Top Two,Bet Pot,Fold,0
+Turn,Two Pair Top Two,All In,Call,100
+Turn,Two Pair Top Two,All In,Fold,0
+Turn,Two Pair Top One,Check,Check,0
+Turn,Two Pair Top One,Check,Bet 1/3,0
+Turn,Two Pair Top One,Check,Bet 2/3,0
+Turn,Two Pair Top One,Check,Bet Pot,100
+Turn,Two Pair Top One,Check,All In,0
+Turn,Two Pair Top One,Bet 1/3,Call,100
+Turn,Two Pair Top One,Bet 1/3,Fold,0
+Turn,Two Pair Top One,Bet 2/3,Call,100
+Turn,Two Pair Top One,Bet 2/3,Fold,0
+Turn,Two Pair Top One,Bet Pot,Call,100
+Turn,Two Pair Top One,Bet Pot,Fold,0
+Turn,Two Pair Top One,All In,Call,100
+Turn,Two Pair Top One,All In,Fold,0
+Turn,Two Pair Two Low,Check,Check,0
+Turn,Two Pair Two Low,Check,Bet 1/3,0
+Turn,Two Pair Two Low,Check,Bet 2/3,0
+Turn,Two Pair Two Low,Check,Bet Pot,100
+Turn,Two Pair Two Low,Check,All In,0
+Turn,Two Pair Two Low,Bet 1/3,Call,100
+Turn,Two Pair Two Low,Bet 1/3,Fold,0
+Turn,Two Pair Two Low,Bet 2/3,Call,100
+Turn,Two Pair Two Low,Bet 2/3,Fold,0
+Turn,Two Pair Two Low,Bet Pot,Call,100
+Turn,Two Pair Two Low,Bet Pot,Fold,0
+Turn,Two Pair Two Low,All In,Call,100
+Turn,Two Pair Two Low,All In,Fold,0
+Turn,Top Set,Check,Check,0
+Turn,Top Set,Check,Bet 1/3,0
+Turn,Top Set,Check,Bet 2/3,0
+Turn,Top Set,Check,Bet Pot,100
+Turn,Top Set,Check,All In,0
+Turn,Top Set,Bet 1/3,Call,100
+Turn,Top Set,Bet 1/3,Fold,0
+Turn,Top Set,Bet 2/3,Call,100
+Turn,Top Set,Bet 2/3,Fold,0
+Turn,Top Set,Bet Pot,Call,100
+Turn,Top Set,Bet Pot,Fold,0
+Turn,Top Set,All In,Call,100
+Turn,Top Set,All In,Fold,0
+Turn,Middle Set,Check,Check,0
+Turn,Middle Set,Check,Bet 1/3,0
+Turn,Middle Set,Check,Bet 2/3,0
+Turn,Middle Set,Check,Bet Pot,100
+Turn,Middle Set,Check,All In,0
+Turn,Middle Set,Bet 1/3,Call,100
+Turn,Middle Set,Bet 1/3,Fold,0
+Turn,Middle Set,Bet 2/3,Call,100
+Turn,Middle Set,Bet 2/3,Fold,0
+Turn,Middle Set,Bet Pot,Call,100
+Turn,Middle Set,Bet Pot,Fold,0
+Turn,Middle Set,All In,Call,100
+Turn,Middle Set,All In,Fold,0
+Turn,Low Set,Check,Check,0
+Turn,Low Set,Check,Bet 1/3,0
+Turn,Low Set,Check,Bet 2/3,0
+Turn,Low Set,Check,Bet Pot,100
+Turn,Low Set,Check,All In,0
+Turn,Low Set,Bet 1/3,Call,100
+Turn,Low Set,Bet 1/3,Fold,0
+Turn,Low Set,Bet 2/3,Call,100
+Turn,Low Set,Bet 2/3,Fold,0
+Turn,Low Set,Bet Pot,Call,100
+Turn,Low Set,Bet Pot,Fold,0
+Turn,Low Set,All In,Call,100
+Turn,Low Set,All In,Fold,0
+Turn,Straight OverCard,Check,Check,0
+Turn,Straight OverCard,Check,Bet 1/3,0
+Turn,Straight OverCard,Check,Bet 2/3,0
+Turn,Straight OverCard,Check,Bet Pot,100
+Turn,Straight OverCard,Check,All In,0
+Turn,Straight OverCard,Bet 1/3,Call,100
+Turn,Straight OverCard,Bet 1/3,Fold,0
+Turn,Straight OverCard,Bet 2/3,Call,100
+Turn,Straight OverCard,Bet 2/3,Fold,0
+Turn,Straight OverCard,Bet Pot,Call,100
+Turn,Straight OverCard,Bet Pot,Fold,0
+Turn,Straight OverCard,All In,Call,100
+Turn,Straight OverCard,All In,Fold,0
+Turn,Straight Middle Card,Check,Check,0
+Turn,Straight Middle Card,Check,Bet 1/3,0
+Turn,Straight Middle Card,Check,Bet 2/3,0
+Turn,Straight Middle Card,Check,Bet Pot,100
+Turn,Straight Middle Card,Check,All In,0
+Turn,Straight Middle Card,Bet 1/3,Call,100
+Turn,Straight Middle Card,Bet 1/3,Fold,0
+Turn,Straight Middle Card,Bet 2/3,Call,100
+Turn,Straight Middle Card,Bet 2/3,Fold,0
+Turn,Straight Middle Card,Bet Pot,Call,100
+Turn,Straight Middle Card,Bet Pot,Fold,0
+Turn,Straight Middle Card,All In,Call,100
+Turn,Straight Middle Card,All In,Fold,0
+Turn,Straight Lower Card,Check,Check,0
+Turn,Straight Lower Card,Check,Bet 1/3,0
+Turn,Straight Lower Card,Check,Bet 2/3,0
+Turn,Straight Lower Card,Check,Bet Pot,100
+Turn,Straight Lower Card,Check,All In,0
+Turn,Straight Lower Card,Bet 1/3,Call,100
+Turn,Straight Lower Card,Bet 1/3,Fold,0
+Turn,Straight Lower Card,Bet 2/3,Call,100
+Turn,Straight Lower Card,Bet 2/3,Fold,0
+Turn,Straight Lower Card,Bet Pot,Call,100
+Turn,Straight Lower Card,Bet Pot,Fold,0
+Turn,Straight Lower Card,All In,Call,100
+Turn,Straight Lower Card,All In,Fold,0
+Turn,Flush With 2 Overs,Check,Check,0
+Turn,Flush With 2 Overs,Check,Bet 1/3,0
+Turn,Flush With 2 Overs,Check,Bet 2/3,0
+Turn,Flush With 2 Overs,Check,Bet Pot,100
+Turn,Flush With 2 Overs,Check,All In,0
+Turn,Flush With 2 Overs,Bet 1/3,Call,100
+Turn,Flush With 2 Overs,Bet 1/3,Fold,0
+Turn,Flush With 2 Overs,Bet 2/3,Call,100
+Turn,Flush With 2 Overs,Bet 2/3,Fold,0
+Turn,Flush With 2 Overs,Bet Pot,Call,100
+Turn,Flush With 2 Overs,Bet Pot,Fold,0
+Turn,Flush With 2 Overs,All In,Call,100
+Turn,Flush With 2 Overs,All In,Fold,0
+Turn,Flush With 1 Over,Check,Check,0
+Turn,Flush With 1 Over,Check,Bet 1/3,0
+Turn,Flush With 1 Over,Check,Bet 2/3,0
+Turn,Flush With 1 Over,Check,Bet Pot,100
+Turn,Flush With 1 Over,Check,All In,0
+Turn,Flush With 1 Over,Bet 1/3,Call,100
+Turn,Flush With 1 Over,Bet 1/3,Fold,0
+Turn,Flush With 1 Over,Bet 2/3,Call,100
+Turn,Flush With 1 Over,Bet 2/3,Fold,0
+Turn,Flush With 1 Over,Bet Pot,Call,100
+Turn,Flush With 1 Over,Bet Pot,Fold,0
+Turn,Flush With 1 Over,All In,Call,100
+Turn,Flush With 1 Over,All In,Fold,0
+Turn,Flush,Check,Check,0
+Turn,Flush,Check,Bet 1/3,0
+Turn,Flush,Check,Bet 2/3,0
+Turn,Flush,Check,Bet Pot,100
+Turn,Flush,Check,All In,0
+Turn,Flush,Bet 1/3,Call,100
+Turn,Flush,Bet 1/3,Fold,0
+Turn,Flush,Bet 2/3,Call,100
+Turn,Flush,Bet 2/3,Fold,0
+Turn,Flush,Bet Pot,Call,100
+Turn,Flush,Bet Pot,Fold,0
+Turn,Flush,All In,Call,100
+Turn,Flush,All In,Fold,0
+Turn,High Full House High Pair,Check,Check,0
+Turn,High Full House High Pair,Check,Bet 1/3,0
+Turn,High Full House High Pair,Check,Bet 2/3,0
+Turn,High Full House High Pair,Check,Bet Pot,100
+Turn,High Full House High Pair,Check,All In,0
+Turn,High Full House High Pair,Bet 1/3,Call,100
+Turn,High Full House High Pair,Bet 1/3,Fold,0
+Turn,High Full House High Pair,Bet 2/3,Call,100
+Turn,High Full House High Pair,Bet 2/3,Fold,0
+Turn,High Full House High Pair,Bet Pot,Call,100
+Turn,High Full House High Pair,Bet Pot,Fold,0
+Turn,High Full House High Pair,All In,Call,100
+Turn,High Full House High Pair,All In,Fold,0
+Turn,High Full House Low Pair,Check,Check,20
+Turn,High Full House Low Pair,Check,Bet 1/3,20
+Turn,High Full House Low Pair,Check,Bet 2/3,20
+Turn,High Full House Low Pair,Check,Bet Pot,20
+Turn,High Full House Low Pair,Check,All In,20
+Turn,High Full House Low Pair,Bet 1/3,Call,50
+Turn,High Full House Low Pair,Bet 1/3,Fold,50
+Turn,High Full House Low Pair,Bet 2/3,Call,50
+Turn,High Full House Low Pair,Bet 2/3,Fold,50
+Turn,High Full House Low Pair,Bet Pot,Call,50
+Turn,High Full House Low Pair,Bet Pot,Fold,50
+Turn,High Full House Low Pair,All In,Call,50
+Turn,High Full House Low Pair,All In,Fold,50
+Turn,Low Full House High Pair,Check,Check,0
+Turn,Low Full House High Pair,Check,Bet 1/3,0
+Turn,Low Full House High Pair,Check,Bet 2/3,0
+Turn,Low Full House High Pair,Check,Bet Pot,100
+Turn,Low Full House High Pair,Check,All In,0
+Turn,Low Full House High Pair,Bet 1/3,Call,100
+Turn,Low Full House High Pair,Bet 1/3,Fold,0
+Turn,Low Full House High Pair,Bet 2/3,Call,100
+Turn,Low Full House High Pair,Bet 2/3,Fold,0
+Turn,Low Full House High Pair,Bet Pot,Call,100
+Turn,Low Full House High Pair,Bet Pot,Fold,0
+Turn,Low Full House High Pair,All In,Call,100
+Turn,Low Full House High Pair,All In,Fold,0
+Turn,Low Full House Low Pair,Check,Check,20
+Turn,Low Full House Low Pair,Check,Bet 1/3,20
+Turn,Low Full House Low Pair,Check,Bet 2/3,20
+Turn,Low Full House Low Pair,Check,Bet Pot,20
+Turn,Low Full House Low Pair,Check,All In,20
+Turn,Low Full House Low Pair,Bet 1/3,Call,50
+Turn,Low Full House Low Pair,Bet 1/3,Fold,50
+Turn,Low Full House Low Pair,Bet 2/3,Call,50
+Turn,Low Full House Low Pair,Bet 2/3,Fold,50
+Turn,Low Full House Low Pair,Bet Pot,Call,50
+Turn,Low Full House Low Pair,Bet Pot,Fold,50
+Turn,Low Full House Low Pair,All In,Call,50
+Turn,Low Full House Low Pair,All In,Fold,50
+Turn,Four Of A Kind,Check,Check,0
+Turn,Four Of A Kind,Check,Bet 1/3,0
+Turn,Four Of A Kind,Check,Bet 2/3,0
+Turn,Four Of A Kind,Check,Bet Pot,100
+Turn,Four Of A Kind,Check,All In,0
+Turn,Four Of A Kind,Bet 1/3,Call,100
+Turn,Four Of A Kind,Bet 1/3,Fold,0
+Turn,Four Of A Kind,Bet 2/3,Call,100
+Turn,Four Of A Kind,Bet 2/3,Fold,0
+Turn,Four Of A Kind,Bet Pot,Call,100
+Turn,Four Of A Kind,Bet Pot,Fold,0
+Turn,Four Of A Kind,All In,Call,100
+Turn,Four Of A Kind,All In,Fold,0
+Turn,Straight Flush,Check,Check,20
+Turn,Straight Flush,Check,Bet 1/3,20
+Turn,Straight Flush,Check,Bet 2/3,20
+Turn,Straight Flush,Check,Bet Pot,20
+Turn,Straight Flush,Check,All In,20
+Turn,Straight Flush,Bet 1/3,Call,50
+Turn,Straight Flush,Bet 1/3,Fold,50
+Turn,Straight Flush,Bet 2/3,Call,50
+Turn,Straight Flush,Bet 2/3,Fold,50
+Turn,Straight Flush,Bet Pot,Call,50
+Turn,Straight Flush,Bet Pot,Fold,50
+Turn,Straight Flush,All In,Call,50
+Turn,Straight Flush,All In,Fold,50
+Turn,Royal Flush,Check,Check,20
+Turn,Royal Flush,Check,Bet 1/3,20
+Turn,Royal Flush,Check,Bet 2/3,20
+Turn,Royal Flush,Check,Bet Pot,20
+Turn,Royal Flush,Check,All In,20
+Turn,Royal Flush,Bet 1/3,Call,50
+Turn,Royal Flush,Bet 1/3,Fold,50
+Turn,Royal Flush,Bet 2/3,Call,50
+Turn,Royal Flush,Bet 2/3,Fold,50
+Turn,Royal Flush,Bet Pot,Call,50
+Turn,Royal Flush,Bet Pot,Fold,50
+Turn,Royal Flush,All In,Call,50
+Turn,Royal Flush,All In,Fold,50
+River,High Card,Check,Check,0.0
+River,High Card,Check,Bet 1/3,33.3332
+River,High Card,Check,Bet 2/3,33.3334
+River,High Card,Check,Bet Pot,33.3334
+River,High Card,Check,All In,0
+River,High Card,Bet 1/3,Call,100
+River,High Card,Bet 1/3,Fold,0
+River,High Card,Bet 2/3,Call,100
+River,High Card,Bet 2/3,Fold,0
+River,High Card,Bet Pot,Call,100
+River,High Card,Bet Pot,Fold,0
+River,High Card,All In,Call,100
+River,High Card,All In,Fold,0
+River,OverPair,Check,Check,100
+River,OverPair,Check,Bet 1/3,0
+River,OverPair,Check,Bet 2/3,0
+River,OverPair,Check,Bet Pot,0
+River,OverPair,Check,All In,0
+River,OverPair,Bet 1/3,Call,100
+River,OverPair,Bet 1/3,Fold,0
+River,OverPair,Bet 2/3,Call,100
+River,OverPair,Bet 2/3,Fold,0
+River,OverPair,Bet Pot,Call,100
+River,OverPair,Bet Pot,Fold,0
+River,OverPair,All In,Call,100
+River,OverPair,All In,Fold,0
+River,Pocket Pair,Check,Check,0.0
+River,Pocket Pair,Check,Bet 1/3,33.3334
+River,Pocket Pair,Check,Bet 2/3,33.3333
+River,Pocket Pair,Check,Bet Pot,33.3333
+River,Pocket Pair,Check,All In,0
+River,Pocket Pair,Bet 1/3,Call,100
+River,Pocket Pair,Bet 1/3,Fold,0
+River,Pocket Pair,Bet 2/3,Call,100
+River,Pocket Pair,Bet 2/3,Fold,0
+River,Pocket Pair,Bet Pot,Call,100
+River,Pocket Pair,Bet Pot,Fold,0
+River,Pocket Pair,All In,Call,100
+River,Pocket Pair,All In,Fold,0
+River,Top Pair Top Kicker,Check,Check,0
+River,Top Pair Top Kicker,Check,Bet 1/3,0
+River,Top Pair Top Kicker,Check,Bet 2/3,0
+River,Top Pair Top Kicker,Check,Bet Pot,0
+River,Top Pair Top Kicker,Check,All In,100
+River,Top Pair Top Kicker,Bet 1/3,Call,100
+River,Top Pair Top Kicker,Bet 1/3,Fold,0
+River,Top Pair Top Kicker,Bet 2/3,Call,100
+River,Top Pair Top Kicker,Bet 2/3,Fold,0
+River,Top Pair Top Kicker,Bet Pot,Call,100
+River,Top Pair Top Kicker,Bet Pot,Fold,0
+River,Top Pair Top Kicker,All In,Call,100
+River,Top Pair Top Kicker,All In,Fold,0
+River,Top Pair Low Kicker,Check,Check,0.0
+River,Top Pair Low Kicker,Check,Bet 1/3,33.3332
+River,Top Pair Low Kicker,Check,Bet 2/3,33.3334
+River,Top Pair Low Kicker,Check,Bet Pot,33.3334
+River,Top Pair Low Kicker,Check,All In,0
+River,Top Pair Low Kicker,Bet 1/3,Call,100
+River,Top Pair Low Kicker,Bet 1/3,Fold,0
+River,Top Pair Low Kicker,Bet 2/3,Call,100
+River,Top Pair Low Kicker,Bet 2/3,Fold,0
+River,Top Pair Low Kicker,Bet Pot,Call,100
+River,Top Pair Low Kicker,Bet Pot,Fold,0
+River,Top Pair Low Kicker,All In,Call,100
+River,Top Pair Low Kicker,All In,Fold,0
+River,Middle Pair Top Kicker,Check,Check,0
+River,Middle Pair Top Kicker,Check,Bet 1/3,0
+River,Middle Pair Top Kicker,Check,Bet 2/3,0
+River,Middle Pair Top Kicker,Check,Bet Pot,0
+River,Middle Pair Top Kicker,Check,All In,100
+River,Middle Pair Top Kicker,Bet 1/3,Call,100
+River,Middle Pair Top Kicker,Bet 1/3,Fold,0
+River,Middle Pair Top Kicker,Bet 2/3,Call,100
+River,Middle Pair Top Kicker,Bet 2/3,Fold,0
+River,Middle Pair Top Kicker,Bet Pot,Call,100
+River,Middle Pair Top Kicker,Bet Pot,Fold,0
+River,Middle Pair Top Kicker,All In,Call,100
+River,Middle Pair Top Kicker,All In,Fold,0
+River,Middle Pair Low Kicker,Check,Check,0.0
+River,Middle Pair Low Kicker,Check,Bet 1/3,33.3334
+River,Middle Pair Low Kicker,Check,Bet 2/3,33.3333
+River,Middle Pair Low Kicker,Check,Bet Pot,33.3333
+River,Middle Pair Low Kicker,Check,All In,0
+River,Middle Pair Low Kicker,Bet 1/3,Call,100
+River,Middle Pair Low Kicker,Bet 1/3,Fold,0
+River,Middle Pair Low Kicker,Bet 2/3,Call,100
+River,Middle Pair Low Kicker,Bet 2/3,Fold,0
+River,Middle Pair Low Kicker,Bet Pot,Call,100
+River,Middle Pair Low Kicker,Bet Pot,Fold,0
+River,Middle Pair Low Kicker,All In,Call,100
+River,Middle Pair Low Kicker,All In,Fold,0
+River,Low Pair Top Kicker,Check,Check,0
+River,Low Pair Top Kicker,Check,Bet 1/3,0
+River,Low Pair Top Kicker,Check,Bet 2/3,0
+River,Low Pair Top Kicker,Check,Bet Pot,0
+River,Low Pair Top Kicker,Check,All In,100
+River,Low Pair Top Kicker,Bet 1/3,Call,100
+River,Low Pair Top Kicker,Bet 1/3,Fold,0
+River,Low Pair Top Kicker,Bet 2/3,Call,100
+River,Low Pair Top Kicker,Bet 2/3,Fold,0
+River,Low Pair Top Kicker,Bet Pot,Call,100
+River,Low Pair Top Kicker,Bet Pot,Fold,0
+River,Low Pair Top Kicker,All In,Call,100
+River,Low Pair Top Kicker,All In,Fold,0
+River,Low Pair Low Kicker,Check,Check,0
+River,Low Pair Low Kicker,Check,Bet 1/3,0
+River,Low Pair Low Kicker,Check,Bet 2/3,0
+River,Low Pair Low Kicker,Check,Bet Pot,0
+River,Low Pair Low Kicker,Check,All In,100
+River,Low Pair Low Kicker,Bet 1/3,Call,100
+River,Low Pair Low Kicker,Bet 1/3,Fold,0
+River,Low Pair Low Kicker,Bet 2/3,Call,100
+River,Low Pair Low Kicker,Bet 2/3,Fold,0
+River,Low Pair Low Kicker,Bet Pot,Call,100
+River,Low Pair Low Kicker,Bet Pot,Fold,0
+River,Low Pair Low Kicker,All In,Call,100
+River,Low Pair Low Kicker,All In,Fold,0
+River,Two Pair Top Two,Check,Check,0.0
+River,Two Pair Top Two,Check,Bet 1/3,33.3334
+River,Two Pair Top Two,Check,Bet 2/3,33.3333
+River,Two Pair Top Two,Check,Bet Pot,33.3333
+River,Two Pair Top Two,Check,All In,0
+River,Two Pair Top Two,Bet 1/3,Call,100
+River,Two Pair Top Two,Bet 1/3,Fold,0
+River,Two Pair Top Two,Bet 2/3,Call,100
+River,Two Pair Top Two,Bet 2/3,Fold,0
+River,Two Pair Top Two,Bet Pot,Call,100
+River,Two Pair Top Two,Bet Pot,Fold,0
+River,Two Pair Top Two,All In,Call,100
+River,Two Pair Top Two,All In,Fold,0
+River,Two Pair Top One,Check,Check,0
+River,Two Pair Top One,Check,Bet 1/3,0
+River,Two Pair Top One,Check,Bet 2/3,0
+River,Two Pair Top One,Check,Bet Pot,0
+River,Two Pair Top One,Check,All In,100
+River,Two Pair Top One,Bet 1/3,Call,100
+River,Two Pair Top One,Bet 1/3,Fold,0
+River,Two Pair Top One,Bet 2/3,Call,100
+River,Two Pair Top One,Bet 2/3,Fold,0
+River,Two Pair Top One,Bet Pot,Call,100
+River,Two Pair Top One,Bet Pot,Fold,0
+River,Two Pair Top One,All In,Call,100
+River,Two Pair Top One,All In,Fold,0
+River,Two Pair Two Low,Check,Check,0.0
+River,Two Pair Two Low,Check,Bet 1/3,33.3332
+River,Two Pair Two Low,Check,Bet 2/3,33.3334
+River,Two Pair Two Low,Check,Bet Pot,33.3334
+River,Two Pair Two Low,Check,All In,0
+River,Two Pair Two Low,Bet 1/3,Call,100
+River,Two Pair Two Low,Bet 1/3,Fold,0
+River,Two Pair Two Low,Bet 2/3,Call,100
+River,Two Pair Two Low,Bet 2/3,Fold,0
+River,Two Pair Two Low,Bet Pot,Call,100
+River,Two Pair Two Low,Bet Pot,Fold,0
+River,Two Pair Two Low,All In,Call,100
+River,Two Pair Two Low,All In,Fold,0
+River,Top Set,Check,Check,0.0
+River,Top Set,Check,Bet 1/3,33.3334
+River,Top Set,Check,Bet 2/3,33.3333
+River,Top Set,Check,Bet Pot,33.3333
+River,Top Set,Check,All In,0
+River,Top Set,Bet 1/3,Call,100
+River,Top Set,Bet 1/3,Fold,0
+River,Top Set,Bet 2/3,Call,100
+River,Top Set,Bet 2/3,Fold,0
+River,Top Set,Bet Pot,Call,100
+River,Top Set,Bet Pot,Fold,0
+River,Top Set,All In,Call,100
+River,Top Set,All In,Fold,0
+River,Middle Set,Check,Check,0.0
+River,Middle Set,Check,Bet 1/3,33.3334
+River,Middle Set,Check,Bet 2/3,33.3333
+River,Middle Set,Check,Bet Pot,33.3333
+River,Middle Set,Check,All In,0
+River,Middle Set,Bet 1/3,Call,100
+River,Middle Set,Bet 1/3,Fold,0
+River,Middle Set,Bet 2/3,Call,100
+River,Middle Set,Bet 2/3,Fold,0
+River,Middle Set,Bet Pot,Call,100
+River,Middle Set,Bet Pot,Fold,0
+River,Middle Set,All In,Call,100
+River,Middle Set,All In,Fold,0
+River,Low Set,Check,Check,0.0
+River,Low Set,Check,Bet 1/3,33.3332
+River,Low Set,Check,Bet 2/3,33.3334
+River,Low Set,Check,Bet Pot,33.3334
+River,Low Set,Check,All In,0
+River,Low Set,Bet 1/3,Call,100
+River,Low Set,Bet 1/3,Fold,0
+River,Low Set,Bet 2/3,Call,100
+River,Low Set,Bet 2/3,Fold,0
+River,Low Set,Bet Pot,Call,100
+River,Low Set,Bet Pot,Fold,0
+River,Low Set,All In,Call,100
+River,Low Set,All In,Fold,0
+River,Straight OverCard,Check,Check,0.0
+River,Straight OverCard,Check,Bet 1/3,33.3334
+River,Straight OverCard,Check,Bet 2/3,33.3333
+River,Straight OverCard,Check,Bet Pot,33.3333
+River,Straight OverCard,Check,All In,0
+River,Straight OverCard,Bet 1/3,Call,100
+River,Straight OverCard,Bet 1/3,Fold,0
+River,Straight OverCard,Bet 2/3,Call,100
+River,Straight OverCard,Bet 2/3,Fold,0
+River,Straight OverCard,Bet Pot,Call,100
+River,Straight OverCard,Bet Pot,Fold,0
+River,Straight OverCard,All In,Call,100
+River,Straight OverCard,All In,Fold,0
+River,Straight Middle Card,Check,Check,0.0
+River,Straight Middle Card,Check,Bet 1/3,33.3334
+River,Straight Middle Card,Check,Bet 2/3,33.3333
+River,Straight Middle Card,Check,Bet Pot,33.3333
+River,Straight Middle Card,Check,All In,0
+River,Straight Middle Card,Bet 1/3,Call,100
+River,Straight Middle Card,Bet 1/3,Fold,0
+River,Straight Middle Card,Bet 2/3,Call,100
+River,Straight Middle Card,Bet 2/3,Fold,0
+River,Straight Middle Card,Bet Pot,Call,100
+River,Straight Middle Card,Bet Pot,Fold,0
+River,Straight Middle Card,All In,Call,100
+River,Straight Middle Card,All In,Fold,0
+River,Straight Lower Card,Check,Check,0
+River,Straight Lower Card,Check,Bet 1/3,0
+River,Straight Lower Card,Check,Bet 2/3,0
+River,Straight Lower Card,Check,Bet Pot,0
+River,Straight Lower Card,Check,All In,100
+River,Straight Lower Card,Bet 1/3,Call,100
+River,Straight Lower Card,Bet 1/3,Fold,0
+River,Straight Lower Card,Bet 2/3,Call,100
+River,Straight Lower Card,Bet 2/3,Fold,0
+River,Straight Lower Card,Bet Pot,Call,100
+River,Straight Lower Card,Bet Pot,Fold,0
+River,Straight Lower Card,All In,Call,100
+River,Straight Lower Card,All In,Fold,0
+River,Flush With 2 Overs,Check,Check,0.0
+River,Flush With 2 Overs,Check,Bet 1/3,33.3334
+River,Flush With 2 Overs,Check,Bet 2/3,33.3333
+River,Flush With 2 Overs,Check,Bet Pot,33.3333
+River,Flush With 2 Overs,Check,All In,0
+River,Flush With 2 Overs,Bet 1/3,Call,100
+River,Flush With 2 Overs,Bet 1/3,Fold,0
+River,Flush With 2 Overs,Bet 2/3,Call,100
+River,Flush With 2 Overs,Bet 2/3,Fold,0
+River,Flush With 2 Overs,Bet Pot,Call,100
+River,Flush With 2 Overs,Bet Pot,Fold,0
+River,Flush With 2 Overs,All In,Call,100
+River,Flush With 2 Overs,All In,Fold,0
+River,Flush With 1 Over,Check,Check,0.0
+River,Flush With 1 Over,Check,Bet 1/3,33.3334
+River,Flush With 1 Over,Check,Bet 2/3,33.3333
+River,Flush With 1 Over,Check,Bet Pot,33.3333
+River,Flush With 1 Over,Check,All In,0
+River,Flush With 1 Over,Bet 1/3,Call,100
+River,Flush With 1 Over,Bet 1/3,Fold,0
+River,Flush With 1 Over,Bet 2/3,Call,100
+River,Flush With 1 Over,Bet 2/3,Fold,0
+River,Flush With 1 Over,Bet Pot,Call,100
+River,Flush With 1 Over,Bet Pot,Fold,0
+River,Flush With 1 Over,All In,Call,100
+River,Flush With 1 Over,All In,Fold,0
+River,Flush,Check,Check,0.0
+River,Flush,Check,Bet 1/3,33.3334
+River,Flush,Check,Bet 2/3,33.3333
+River,Flush,Check,Bet Pot,33.3333
+River,Flush,Check,All In,0
+River,Flush,Bet 1/3,Call,100
+River,Flush,Bet 1/3,Fold,0
+River,Flush,Bet 2/3,Call,100
+River,Flush,Bet 2/3,Fold,0
+River,Flush,Bet Pot,Call,100
+River,Flush,Bet Pot,Fold,0
+River,Flush,All In,Call,100
+River,Flush,All In,Fold,0
+River,High Full House High Pair,Check,Check,0.0
+River,High Full House High Pair,Check,Bet 1/3,33.3334
+River,High Full House High Pair,Check,Bet 2/3,33.3333
+River,High Full House High Pair,Check,Bet Pot,33.3333
+River,High Full House High Pair,Check,All In,0
+River,High Full House High Pair,Bet 1/3,Call,100
+River,High Full House High Pair,Bet 1/3,Fold,0
+River,High Full House High Pair,Bet 2/3,Call,100
+River,High Full House High Pair,Bet 2/3,Fold,0
+River,High Full House High Pair,Bet Pot,Call,100
+River,High Full House High Pair,Bet Pot,Fold,0
+River,High Full House High Pair,All In,Call,100
+River,High Full House High Pair,All In,Fold,0
+River,High Full House Low Pair,Check,Check,20
+River,High Full House Low Pair,Check,Bet 1/3,20
+River,High Full House Low Pair,Check,Bet 2/3,20
+River,High Full House Low Pair,Check,Bet Pot,20
+River,High Full House Low Pair,Check,All In,20
+River,High Full House Low Pair,Bet 1/3,Call,50
+River,High Full House Low Pair,Bet 1/3,Fold,50
+River,High Full House Low Pair,Bet 2/3,Call,50
+River,High Full House Low Pair,Bet 2/3,Fold,50
+River,High Full House Low Pair,Bet Pot,Call,50
+River,High Full House Low Pair,Bet Pot,Fold,50
+River,High Full House Low Pair,All In,Call,50
+River,High Full House Low Pair,All In,Fold,50
+River,Low Full House High Pair,Check,Check,0
+River,Low Full House High Pair,Check,Bet 1/3,0
+River,Low Full House High Pair,Check,Bet 2/3,0
+River,Low Full House High Pair,Check,Bet Pot,0
+River,Low Full House High Pair,Check,All In,100
+River,Low Full House High Pair,Bet 1/3,Call,100
+River,Low Full House High Pair,Bet 1/3,Fold,0
+River,Low Full House High Pair,Bet 2/3,Call,100
+River,Low Full House High Pair,Bet 2/3,Fold,0
+River,Low Full House High Pair,Bet Pot,Call,100
+River,Low Full House High Pair,Bet Pot,Fold,0
+River,Low Full House High Pair,All In,Call,100
+River,Low Full House High Pair,All In,Fold,0
+River,Low Full House Low Pair,Check,Check,20
+River,Low Full House Low Pair,Check,Bet 1/3,20
+River,Low Full House Low Pair,Check,Bet 2/3,20
+River,Low Full House Low Pair,Check,Bet Pot,20
+River,Low Full House Low Pair,Check,All In,20
+River,Low Full House Low Pair,Bet 1/3,Call,50
+River,Low Full House Low Pair,Bet 1/3,Fold,50
+River,Low Full House Low Pair,Bet 2/3,Call,50
+River,Low Full House Low Pair,Bet 2/3,Fold,50
+River,Low Full House Low Pair,Bet Pot,Call,50
+River,Low Full House Low Pair,Bet Pot,Fold,50
+River,Low Full House Low Pair,All In,Call,50
+River,Low Full House Low Pair,All In,Fold,50
+River,Four Of A Kind,Check,Check,0.0
+River,Four Of A Kind,Check,Bet 1/3,33.3332
+River,Four Of A Kind,Check,Bet 2/3,33.3334
+River,Four Of A Kind,Check,Bet Pot,33.3334
+River,Four Of A Kind,Check,All In,0
+River,Four Of A Kind,Bet 1/3,Call,100
+River,Four Of A Kind,Bet 1/3,Fold,0
+River,Four Of A Kind,Bet 2/3,Call,100
+River,Four Of A Kind,Bet 2/3,Fold,0
+River,Four Of A Kind,Bet Pot,Call,100
+River,Four Of A Kind,Bet Pot,Fold,0
+River,Four Of A Kind,All In,Call,100
+River,Four Of A Kind,All In,Fold,0
+River,Straight Flush,Check,Check,20
+River,Straight Flush,Check,Bet 1/3,20
+River,Straight Flush,Check,Bet 2/3,20
+River,Straight Flush,Check,Bet Pot,20
+River,Straight Flush,Check,All In,20
+River,Straight Flush,Bet 1/3,Call,50
+River,Straight Flush,Bet 1/3,Fold,50
+River,Straight Flush,Bet 2/3,Call,50
+River,Straight Flush,Bet 2/3,Fold,50
+River,Straight Flush,Bet Pot,Call,50
+River,Straight Flush,Bet Pot,Fold,50
+River,Straight Flush,All In,Call,50
+River,Straight Flush,All In,Fold,50
+River,Royal Flush,Check,Check,20
+River,Royal Flush,Check,Bet 1/3,20
+River,Royal Flush,Check,Bet 2/3,20
+River,Royal Flush,Check,Bet Pot,20
+River,Royal Flush,Check,All In,20
+River,Royal Flush,Bet 1/3,Call,50
+River,Royal Flush,Bet 1/3,Fold,50
+River,Royal Flush,Bet 2/3,Call,50
+River,Royal Flush,Bet 2/3,Fold,50
+River,Royal Flush,Bet Pot,Call,50
+River,Royal Flush,Bet Pot,Fold,50
+River,Royal Flush,All In,Call,50
+River,Royal Flush,All In,Fold,50
